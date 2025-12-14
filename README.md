@@ -1,6 +1,6 @@
 # adaptive_timouts
 **MANAGING TRANSACTIONS IN SNAPSHOT ISOLATION WITH ADAPTIVE TIMEOUTS**
-* Author: Vipul Reddy
+* Author: Vipul Kumar Bondugula
 * Published In : International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
 * Publication Date: 08-2021
 * E-ISSN: 2349-7300
@@ -47,7 +47,7 @@ Enabled better adaptation to dynamic workloads and contention levels through con
 
 **Citation** \
 MANAGING TRANSACTIONS IN SNAPSHOT ISOLATION WITH ADAPTIVE TIMEOUTS
-* Vipul R 
+* Vipul Kumar Bondugula
 * International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences 
 * E-ISSN 2349-7300 
 * License \
@@ -55,7 +55,7 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 https://www.ijirmps.org/ \
 **Author Contact** \
-**LinkedIn**: http://linkedin.com/in/Please add here | **Email**: please keep email id @gmail.com
+**LinkedIn**: https://www.linkedin.com/in/vipul-b-18468a19/ | **Email**: vipulreddy574@gmail.com
 
 
 
