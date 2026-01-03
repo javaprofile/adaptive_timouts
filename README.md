@@ -1,5 +1,5 @@
 # Adaptive Timouts
-**MANAGING TRANSACTIONS IN SNAPSHOT ISOLATION WITH ADAPTIVE TIMEOUTS**
+**Managing Transactions in Snapshot Isolation With Adaptive Timeouts**
 
 ### Paper Information
 - **Author(s):** Vipul Kumar Bondugula
