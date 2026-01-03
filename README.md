@@ -2,7 +2,7 @@
 **MANAGING TRANSACTIONS IN SNAPSHOT ISOLATION WITH ADAPTIVE TIMEOUTS**
 
 ### Paper Information
-- **Author()s:** Vipul Kumar Bondugula
+- **Author(s):** Vipul Kumar Bondugula
 - **Published In:** International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
 - **Publication Date:** Aug 2021
 - **ISSN:** E-ISSN 2349-7300
