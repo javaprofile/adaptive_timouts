@@ -1,11 +1,13 @@
-# adaptive_timouts
+# Adaptive Timouts
 **MANAGING TRANSACTIONS IN SNAPSHOT ISOLATION WITH ADAPTIVE TIMEOUTS**
-* Author: Vipul Kumar Bondugula
-* Published In : International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
-* Publication Date: 08-2021
-* E-ISSN: 2349-7300
-* Impact Factor: 9.907
-* Link:
+
+### Paper Information
+- **Author()s:** Vipul Kumar Bondugula
+- **Published In:** International Journal of Innovative Research in Engineering & Multidisciplinary Physical Sciences (IJIRMPS)
+- **Publication Date:** Aug 2021
+- **ISSN:** E-ISSN 2349-7300
+- **DOI:**
+- **Impact Factor:** 9.907
 
 **Abstract:**\
 This paper addresses performance degradation in database transaction management caused by high retry counts under fixed timeout strategies in Snapshot Isolation. It examines how predefined timeout values fail to adapt to dynamic workload conditions, leading to premature transaction aborts, excessive retries, and reduced throughput in high-contention environments. The study emphasizes the role of dynamic timeout mechanisms that adjust waiting periods based on system state and transaction behavior to improve efficiency. By learning from prior executions and estimating appropriate completion windows, the proposed approach reduces unnecessary retries and lowers latency across varying node configurations. The paper highlights the need for adaptive, context-aware timeout management to enhance scalability and performance in concurrent database systems.
